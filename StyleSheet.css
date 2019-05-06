@@ -1,0 +1,24 @@
+﻿body {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+form{
+    width:60%;
+    margin-left:auto;
+    margin-right:auto
+
+}
+    form input {
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+footer{
+    padding: 5%;
+}
+#presentation{
+    width:60%;
+}
